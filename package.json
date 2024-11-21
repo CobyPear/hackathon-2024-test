@@ -1,1 +1,7 @@
-{"scripts":{"noop":"echo 'noop'","build":"npm run noop","start":"npm run noop"}}
+{
+  "scripts": {
+    "noop": "echo 'noop'",
+    "build": "npm run noop",
+    "start": "npm run noop"
+  }
+}
